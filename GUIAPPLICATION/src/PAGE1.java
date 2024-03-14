@@ -1,8 +1,6 @@
 import java.awt.EventQueue;
-//kjhvb
-//bjkvhbj
-//jkbvlj
-//jkxcguvc
+//857605
+//98576
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
